@@ -12,10 +12,13 @@
   </p>
 </div>
 
-- I'm grateful for the open web — docs, blog posts, and random gists taught me most of what I know.
+###  Skill
+<p align="center">
+  <div> - I'm grateful for the open web — docs, blog posts, and random gists taught me most of what I know.</div>
 - I love building UI from scratch and watching pixels come alive in the browser.
 - I'm currently learning how AI agents actually work — prompts, tools, traces, the whole stack.
 - If you're building something interesting around frontend or agents, feel free to email me. TvT
+</p>
 
 ### 🛠️ Tech Stack
 
