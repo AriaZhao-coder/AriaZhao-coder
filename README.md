@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" alt="wave"/><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=20&color=C77DFF&vCenter=true&width=480&height=40&pause=100000&lines=Hi%2C+I'm+Aria.+React+Frontend+Developer." alt="Hi"/>
+  👋 <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=20&color=C77DFF&vCenter=true&width=500&height=28&pause=100000&lines=Hi%2C+I'm+Aria.+React+Frontend+Developer." alt="Hi"/>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=16&color=E0AAFF&center=true&vCenter=true&width=780&height=40&pause=100000&lines=Two+years+of+React+%7C+Currently+exploring+AI+Agents+%7C+Always+curious." alt="Current Role"/>
   <br/>
@@ -14,7 +14,23 @@
 
 
 
+
+
+
+
+
+
+
+
 ---
+
+
+
+
+
+
+
+
 
 
 
@@ -28,40 +44,11 @@
 
 
 
+
+
+
+
 - 🌸 I'm grateful for the open web — docs, blog posts, and random gists taught me most of what I know.
 - 🎨 I love building UI from scratch and watching pixels come alive in the browser.
 - 🤖 I'm currently learning how AI agents actually work — prompts, tools, traces, the whole stack.
 - ✉️ If you're building something interesting around frontend or agents, feel free to email me. TvT
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-### 🛠️ Tech Stack
-
-
-
-
-
-
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,vite,nodejs,git,github,vscode,figma,py&perline=15" alt="tech stack" />
