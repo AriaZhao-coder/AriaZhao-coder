@@ -26,7 +26,7 @@
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,vite" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,html,css,tailwind,sass,vite,webpack,redux,jest" alt="frontend" />
 
 **⚙️ Backend**
 
@@ -34,7 +34,7 @@
 
 **🗄️ Database**
 
-<img src="https://skillicons.dev/icons?i=mysql" alt="database" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" alt="database" />
 
 **🤖 LLM Providers**
 
