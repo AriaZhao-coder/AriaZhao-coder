@@ -8,14 +8,31 @@
 </div>
 
 
+
+
 ---
 
 
+
+
 ### 👩‍💻 About Me
+
+
 
 
 - 🌸 I'm grateful for the open web — docs, blog posts, and random gists taught me most of what I know.
 - 🎨 I love building UI from scratch and watching pixels come alive in the browser.
 - 🤖 I'm currently learning how AI agents actually work — prompts, tools, traces, the whole stack.
 - ✉️ If you're building something interesting around frontend or agents, feel free to email me. TvT
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,nodejs,git,vscode,figma" alt="tech stack" />
+</p>
+
+
+
 
