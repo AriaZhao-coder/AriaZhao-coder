@@ -22,7 +22,7 @@
 
 **🔤 Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,py" alt="languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,r" alt="languages" />
 
 **🎨 Frontend**
 
@@ -30,7 +30,7 @@
 
 **⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" alt="backend" />
 
 **🗄️ Database**
 
