@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" height="22px" alt="wave"/><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=20&color=C77DFF&center=true&vCenter=true&width=780&height=40&pause=100000&lines=Hi%2C+I'm+Aria.+React+Frontend+Developer." alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=16&color=E0AAFF&center=true&vCenter=true&width=780&height=40&pause=100000&lines=Two+years+of+React+%7C+Currently+exploring+AI+Agents+%7C+Always+curious." alt="Current Role"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" height="22px" alt="wave"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=20&color=C77DFF&center=true&vCenter=true&width=540&height=40&pause=100000&lines=Hi%2C+I'm+Aria.+React+Frontend+Developer." alt="Hi"/>
+  </p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=16&color=E0AAFF&center=true&vCenter=true&width=780&height=40&pause=100000&lines=Two+years+of+React+%7C+Currently+exploring+AI+Agents+%7C+Always+curious." alt="Current Role"/>
+  </p>
   <p>
     <a href="mailto:zhaoaria.2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-zhaoaria.2003%40gmail.com-C77DFF?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
     <img src="https://img.shields.io/badge/Focus-AI%20Agents-FFB3DE?style=flat-square&logo=openai&logoColor=white" alt="focus" />
@@ -8,10 +13,15 @@
 </div>
 
 
+
+
 ---
 
 
+
+
 ### 👩‍💻 About Me
+
 
 - 🌸 I'm grateful for the open web — docs, blog posts, and random gists taught me most of what I know.
 - 🎨 I love building UI from scratch and watching pixels come alive in the browser.
@@ -19,13 +29,21 @@
 - ✉️ If you're building something interesting around frontend or agents, feel free to email me. TvT
 
 
+
+
 ---
+
+
+
 
 
 
 ### 🛠️ Tech Stack
 
 
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,vite,nodejs,git,github,vscode,figma,py&perline=15" alt="tech stack" />
+
