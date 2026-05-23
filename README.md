@@ -7,51 +7,36 @@
   <img src="https://img.shields.io/badge/Focus-AI%20Agents-FFB3DE?style=flat-square&logo=openai&logoColor=white" alt="focus" />
 </div>
 
-
 ---
 
-
 ### 👩‍💻 About Me
-
 
 - 🌸 I'm grateful for the open web — docs, blog posts, and random gists taught me most of what I know.
 - 🎨 I love building UI from scratch and watching pixels come alive in the browser.
 - 🤖 I'm currently learning how AI agents actually work — prompts, tools, traces, the whole stack.
 - ✉️ If you're building something interesting around frontend or agents, feel free to email me. TvT
 
-
 ---
-
 
 ### 🛠️ Tech Stack
 
-
 **🔤 Languages**
-
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,r" alt="languages" />
 
-
 **🎨 Frontend**
-
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,vite,webpack,redux,jest" alt="frontend" />
 
-
 **⚙️ Backend**
-
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" alt="backend" />
 
-
 **🗄️ Database**
-
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" alt="database" />
 
-
 **🤖 LLM Providers**
-
 
 <p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
@@ -60,3 +45,8 @@
 <img src="https://img.shields.io/badge/Llama-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="llama" />
 <img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistralai&logoColor=white" alt="mistral" />
 <img src="https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white" alt="cohere" />
+</p>
+
+**🛠️ Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" alt="tools" />
