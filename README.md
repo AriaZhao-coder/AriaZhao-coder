@@ -46,3 +46,7 @@
 <img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistralai&logoColor=white" alt="mistral" />
 <img src="https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white" alt="cohere" />
 </p>
+
+**🛠️ Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" alt="tools" />
