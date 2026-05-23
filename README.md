@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=22&color=C77DFF&center=true&pause=100000&lines=Hi%2C+I'm+Aria.+React+Frontend+Developer." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=20&color=C77DFF&center=true&pause=100000&lines=Hi%2C+I'm+Aria.+React+Frontend+Developer." alt="Hi"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=16&color=E0AAFF&center=true&vCenter=true&width=780&pause=100000&lines=Two+years+of+React+%7C+Currently+exploring+AI+Agents+%7C+Always+curious." alt="Current Role"/>
   <p>
     <img src="https://komarev.com/ghpvc/?username=AriaZhao-coder&label=Profile+views&color=C77DFF&style=flat-square" alt="profile views" />
