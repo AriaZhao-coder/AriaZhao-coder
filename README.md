@@ -38,6 +38,8 @@
 
 **🤖 AI / Agent**
 
-<img src="https://img.shields.io/badge/OpenAI-C77DFF?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
-<img src="https://img.shields.io/badge/Claude-E0AAFF?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude" />
-<img src="https://img.shields.io/badge/LangChain-9D4EDD?style=for-the-badge&logoColor=white" alt="langchain" />
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" />
+</p>
